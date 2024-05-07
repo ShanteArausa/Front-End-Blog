@@ -1,0 +1,25 @@
+.about-section{
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+  gap: 3px;
+}
+.fa{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover{
+  opacity: 0.6;
+}
+.fa-facebook{
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter{
+  background: #55ACEE;
+  color: white;
+}
